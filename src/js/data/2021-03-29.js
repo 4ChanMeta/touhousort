@@ -1396,7 +1396,8 @@ dataSet[dataSetVersion].characterData = [
     img: "6gjIFqf.png",
     opts: {
       series: ["EoSD"],
-      stage: []
+      stage: [],
+      nameless: true
     }
   },
   {
