@@ -80,7 +80,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Kirisame Marisa",
     img: "tJnkSzK.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM", "udoalg ],
+      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM", "udoalg" ],
       stage: ["st4", "ex"]
     }
   },
@@ -1459,7 +1459,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Rengeteki",
     img: "rengeteki.png",
     opts: {
-      series: ["LLS" "MS"],
+      series: ["LLS" , "MS"],
       stage: ["st3", "st4"]
     }
   },
