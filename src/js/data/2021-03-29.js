@@ -1452,7 +1452,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Py8vNXu.png",
     opts: {
       series: ["MS"],
-      stage: ["st5"]
+      stage: ["st5"],
+      nameless: true
     }
   },
   {
@@ -1460,7 +1461,8 @@ dataSet[dataSetVersion].characterData = [
     img: "0388Dto.png",
     opts: {
       series: ["LLS" , "MS"],
-      stage: ["st3", "st4"]
+      stage: ["st3", "st4"],
+      nameless: true
     }
   },
   {
@@ -1468,7 +1470,8 @@ dataSet[dataSetVersion].characterData = [
     img: "ERo7tuj.png",
     opts: {
       series: ["SoEW"],
-      stage: ["st2"]
+      stage: ["st2"],
+      nameless: true
     }
   },
   {
@@ -1476,7 +1479,8 @@ dataSet[dataSetVersion].characterData = [
     img: "gFClMYK.png",
     opts: {
       series: ["MS"],
-      stage: ["st1"]
+      stage: ["st1"],
+      nameless: true
     }
   },
 ];
