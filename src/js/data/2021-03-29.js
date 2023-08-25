@@ -1385,7 +1385,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mizuchi",
-    img: "bYA9E16.png",
+    img: "2VzFU5Z.png",
     opts: {
       series: ["book"],
       stage: []
@@ -1393,7 +1393,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rin Satsuki",
-    img: "rin1.png",
+    img: "6gjIFqf.png",
     opts: {
       series: ["EoSD"],
       stage: []
@@ -1401,7 +1401,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Biten",
-    img: "biten.png",
+    img: "p8QWE9E.png",
     opts: {
       series: ["udoalg"],
       stage: ["st1", "st2", "st3", "st4"]
@@ -1409,7 +1409,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yuuma",
-    img: "yuuma.png",
+    img: "nJjqTaF.png",
     opts: {
       series: ["udoalg"],
       stage: ["st2", "st3", "st4", "st5", "st6"]
@@ -1417,7 +1417,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "zamnu",
-    img: "zamnu.png",
+    img: "0gvfjVo.png",
     opts: {
       series: ["udoalg"],
       stage: ["st6"]
@@ -1425,7 +1425,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Chiyari",
-    img: "chiyari.png",
+    img: "mQPpLiM.png",
     opts: {
       series: ["udoalg"],
       stage: ["st1", "st2", "st3", "st4"]
@@ -1433,7 +1433,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Enoko",
-    img: "enoko.png",
+    img: "OYyDodB.png",
     opts: {
       series: ["udoalg"],
       stage: ["st1", "st2", "st3", "st4"]
@@ -1441,7 +1441,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hisami",
-    img: "hisami.png",
+    img: "og3vIxY.png",
     opts: {
       series: ["udoalg"],
       stage: ["st4", "st5"]
@@ -1449,7 +1449,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ayana",
-    img: "ayana.png",
+    img: "Py8vNXu.png",
     opts: {
       series: ["MS"],
       stage: ["st5"]
@@ -1457,7 +1457,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rengeteki",
-    img: "rengeteki.png",
+    img: "0388Dto.png",
     opts: {
       series: ["LLS" , "MS"],
       stage: ["st3", "st4"]
@@ -1465,7 +1465,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Noroiko",
-    img: "noroiko.png",
+    img: "ERo7tuj.png",
     opts: {
       series: ["SoEW"],
       stage: ["st2"]
@@ -1473,7 +1473,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kaikidannichimennchuubosu",
-    img: "kaikidannichimennchuubosu.png",
+    img: "gFClMYK.png",
     opts: {
       series: ["MS"],
       stage: ["st1"]
