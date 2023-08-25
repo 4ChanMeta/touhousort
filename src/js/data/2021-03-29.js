@@ -1411,7 +1411,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Yuuma",
     img: "yuuma.png",
     opts: {
-      series: ["udoalg"],
+      series: ["WBaWC", "udoalg"],
       stage: ["st2", "st3", "st4", "st5", "st6"]
     }
   },
