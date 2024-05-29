@@ -1486,7 +1486,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ibaraki Douji's Arm",
-    img: "1hcXrrk.png",
+    img: "NyL1noI.png",
     opts: {
       series: ["book"],
       stage: [],
