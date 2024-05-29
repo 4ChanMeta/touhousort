@@ -1492,6 +1492,5 @@ dataSet[dataSetVersion].characterData = [
       stage: [],
       nameless: false
     }
-  },
-  {
+  }
 ];
